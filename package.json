@@ -1,0 +1,11 @@
+{
+  "name": "com.takanora.addressables-tools",
+  "version": "1.0.0",
+  "displayName": "Addressables Tools",
+  "type": "tool",
+  "dependencies": {
+    "com.unity.addressables": "1.0.0"
+  },
+  "keywords": [],
+  "hideInEditor": false
+}
